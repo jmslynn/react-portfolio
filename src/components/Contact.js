@@ -66,7 +66,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            I'm looking for a front end, or full stack developer position with a company where I can be part of a team.
+            I'd love to join your team as a front end, or full stack developer.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

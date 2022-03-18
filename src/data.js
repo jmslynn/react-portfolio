@@ -15,7 +15,7 @@ export const projects = [
     title: "RuralNet",
     subtitle: "Svelte, Tailwind",
     description:
-      "A Code for the Upper Valley, Code for America Brigade project.",
+      "A web-based app that tests internet connection speeds in Vermont to help bring broadband to rural areas. I'm working on creating the site design and UX. This is a Code for the Upper Valley, Code for America Brigade project.",
     image: "ruralNetDraft.png",
     link: "https://ruralnetv2.herokuapp.com",
   },
@@ -23,7 +23,7 @@ export const projects = [
     title: "FoodResources",
     subtitle: "Tailwind CSS, HTML, UI/UX",
     description:
-    "A web-based app to help Upper Valley residents locate food resources. A Code for the Upper Valley, Code for America Brigade project.",
+    "A web-based app to help Upper Valley residents locate food resources. I'm working on creating the site design and UX. A Code for the Upper Valley, Code for America Brigade project.",
     image: "foodResourcesMobile.png",
     link: "https://food-resources.herokuapp.com",
   },
@@ -33,7 +33,7 @@ export const projects = [
     description:
       "Redesigned website for regional theater company.",
     image: "finaldesign2.jpg",
-    link: "https://pythonbootcamp.com",
+    link: "",
   },
 ];
 
