@@ -16,8 +16,8 @@ export const projects = [
     subtitle: "Svelte, Tailwind",
     description:
       "A web-based app that tests internet connection speeds in Vermont to help bring broadband to rural areas. I'm working on creating the site design and UX. This is a Code for the Upper Valley, Code for America Brigade project.",
-    image: "ruralNetDraft.png",
-    link: "https://ruralnetv2.herokuapp.com",
+    image: "ruralNet.png",
+    link: "http://ruralnet.codeforuv.org/",
   },
   {
     title: "FoodResources",
