@@ -9,15 +9,15 @@ export const projects = [
     description:
       "A group project to create a budgeting application. I'm currently creating a budget component to display the amount spent in each budget category with a progress bar.",
     image: "category-row-component.PNG",
-    link: "n/a",
+    link: "https://github.com/coaching-team/budget-squad",
   },
   {
     title: "RuralNet",
     subtitle: "Svelte, Tailwind",
     description:
-      "A web-based app that tests internet connection speeds in Vermont to help bring broadband to rural areas. I'm working on creating the site design and UX. This is a Code for the Upper Valley, Code for America Brigade project.",
+      "A web-based app that provides an unbiased source of mapped internet speeds to help bring broadband to rural areas. I created the initial site design and now serve as the project manager.",
     image: "ruralNet.png",
-    link: "http://ruralnet.codeforuv.org/",
+    link: "https://ruralnet.codeforuv.org/",
   },
   {
     title: "FoodResources",
