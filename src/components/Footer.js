@@ -17,7 +17,6 @@ export default function Footer() {
             style={{ filter: "opacity(0.7)" }}
             src="https://www.google.com/maps/embed/v1/place?q=lebanon+new+hampshire&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
-
         </div>
         <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
