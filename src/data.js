@@ -1,6 +1,6 @@
 
 export const skills = [
-  "ReactJS", "JavaScript", "CSS", "HTML", "Bootstrap", "tailwindcss", "Other Skills: MySQL, Java"
+  "ReactJS", "JavaScript", "CSS", "HTML", "Bootstrap", "Other Skills: MySQL, Java"
 ]
 export const projects = [
   {
