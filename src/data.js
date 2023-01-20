@@ -8,7 +8,7 @@ export const projects = [
     subtitle: "React, JavaScript, BootStrap, Jira",
     description:
       "A group project to create a budgeting application. I'm currently creating a budget component to display the amount spent in each budget category with a progress bar.",
-    image: "category-row-component.PNG",
+    image: "categoryRow.png",
     link: "https://github.com/coaching-team/budget-squad",
   },
   {
@@ -16,7 +16,7 @@ export const projects = [
     subtitle: "Svelte, Tailwind",
     description:
       "A web-based app that provides an unbiased source of mapped internet speeds to help bring broadband to rural areas. I created the initial site design and now serve as the project manager.",
-    image: "ruralNet.png",
+    image: "ruralNetScreen.png",
     link: "https://ruralnet.codeforuv.org/",
   },
   {
