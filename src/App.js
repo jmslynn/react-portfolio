@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import ApiDisplay from "./components/RandomApiThing";
 // import Testimonials from "./components/Testimonials";
 
 export default function App() {
@@ -15,6 +16,7 @@ export default function App() {
       <Skills />
       {/* <Testimonials /> */}
       <Footer />
+      <ApiDisplay />
     </main>
   );
 }

@@ -2,6 +2,8 @@
 export const skills = [
   "ReactJS", "JavaScript", "CSS", "HTML", "Bootstrap", "Other Skills: MySQL, Java"
 ]
+export const critterPath = "http://shibe.online/api/cats?count=[1]&urls=[true]&httpsUrls=[true/false]";
+
 export const projects = [
   {
     title: "Budget Squad",
