@@ -14,7 +14,7 @@ I added the text from an API at the bottom as a way to practice that skill in a 
 
 ### Future Improvements
 
-The tailwind css is not working well for me. I plan to change it over to bootstrap.
+The tailwind css is not working well for me. I plan to change it over to bootstrap. This will hopefully fix the small screen layout issues and the text overlay display in the Portfolio section.
 
 Project currently uses an API to display a string of Greeked text. I'd like to change that to an animal image.
 
