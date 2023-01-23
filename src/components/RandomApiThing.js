@@ -16,7 +16,7 @@ export default function ApiDisplay() {
   }, []);
   
   return (
-    <section id="apiDisplay">
+    <section id="apiDisplay" className="text-lt-blue-shadow bg-dk-teal body-font">
       <div className="posts-container">
       </div>
       <div className="container px-5 py-10 mx-auto">
