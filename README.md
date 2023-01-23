@@ -2,6 +2,8 @@
 
 This is my current portfolio and was created from a tutorial using React and Tailwind.
 
+It is hosted here: https://quizzical-bose-4f333b.netlify.app/
+
 ## Design and Development Decisions
 
 I chose to use a tutorial so I could focus on the code and the content and not have to make design decisions. I chose this template because it was at my then skill level for React and I liked the layout.
