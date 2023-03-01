@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import ApiDisplay from "./components/RandomApiThing";
+import RandomThingDisplay from "./components/RandomOtherThing";
 // import Testimonials from "./components/Testimonials";
 
 export default function App() {
@@ -17,6 +18,7 @@ export default function App() {
       {/* <Testimonials /> */}
       <Footer />
       <ApiDisplay />
+      <RandomThingDisplay />
     </main>
   );
 }

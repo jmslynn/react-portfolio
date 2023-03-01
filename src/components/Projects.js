@@ -1,4 +1,3 @@
-// import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
 import { projects } from "../data";
 
@@ -26,8 +25,9 @@ export default function Projects() {
                   className="absolute inset-0 object-cover object-center"
                   src={project.image}
                 />
-                <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
-                <h1 className="title-font text-lg font-medium text-white mb-3">
+                {/* rollover area */}
+                <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100 bg-pink-900">
+                <h1 className="title-font text-lg font-medium text-black mb-3">
                     {project.title}
                   </h1>
                   <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">

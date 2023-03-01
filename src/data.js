@@ -4,6 +4,18 @@ export const skills = [
 ]
 export const critterPath = "http://shibe.online/api/cats?count=[1]&urls=[true]&httpsUrls=[true/false]";
 
+export const ruralnetPath = 'https://ipgeolocation.abstractapi.com/v1/?api_key=24b20bbcf9d1412e9deae17b60cd692a&ip_address=2600:4040:5714:3a00:d98d:8499:e47e:a240'
+
+// ipv4 address: 73.149.42.145
+// ipv6 address: 2601:18c:4303:be60:b1a0:a6c2:55c4:8d56
+
+// key for account using ruralnet@codeforuv.org
+    // this.ABSTRACT_API = "de24077830ea4d369cb85de93599c45c";
+
+    // key for account using lynn.jms@gmail.com
+    // this.ABSTRACT_API = "24b20bbcf9d1412e9deae17b60cd692a";
+
+
 export const projects = [
   {
     title: "Budget Squad",

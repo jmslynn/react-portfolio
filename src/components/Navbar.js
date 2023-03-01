@@ -17,16 +17,12 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          {/* <a href="#testimonials" className="mr-5 hover:text-white">
-            Testimonials
-          </a> */}
-        </nav>
         <a
           href="#contact"
-          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          className="mr-5">
           Hire Me
-          {/* <ArrowRightIcon className="w-4 h-4 ml-1" /> */}
         </a>
+        </nav>
       </div>
     </header>
   );

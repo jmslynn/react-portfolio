@@ -14,7 +14,7 @@ export default function ApiDisplay() {
            console.log(err.message);
         });
   }, []);
-  
+
   return (
     <section id="apiDisplay" className="text-lt-blue-shadow bg-dk-teal body-font">
       <div className="posts-container">
