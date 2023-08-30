@@ -44,3 +44,9 @@ export default function ApiDisplay() {
     </section>
   );
 }
+
+// will this work?
+// {projects.map((project, i) => {
+//    return (
+//      <div className="relative" key={i}>
+//        <img src={project.img} alt={project.title} />

@@ -6,19 +6,19 @@ const queryID = "https://ipgeolocation.abstractapi.com/v1/?api_key=24b20bbcf9d14
 const queryIDNoIP = "https://ipgeolocation.abstractapi.com/v1/?api_key=24b20bbcf9d1412e9deae17b60cd692a";
 
 export default function RandomThingDisplay() {
-  const [locations, setLocation] = useState([]);
-  useEffect(() => {
-     fetch(queryIDNoIP)
-.then((response) => response.json())
-        .then((data) => {
-           console.log(data);
-           setLocation(data);
-        })
-        .catch((err) => {
-           console.log(err.message);
-           console.log("this is the fetch error message")
-        });
-  }, []);
+//   const [locations, setLocation] = useState([]);
+//   useEffect(() => {
+//      fetch(queryIDNoIP)
+// .then((response) => response.json())
+//         .then((data) => {
+//            console.log(data);
+//            setLocation(data);
+//         })
+//         .catch((err) => {
+//            console.log(err.message);
+//            console.log("this is the fetch error message")
+//         });
+//   }, []);
 
   return (
     <section id="apiDisplay" className="text-lt-blue-shadow bg-dk-teal body-font">
