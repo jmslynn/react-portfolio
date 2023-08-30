@@ -19,27 +19,36 @@ export const ruralnetPath = 'https://ipgeolocation.abstractapi.com/v1/?api_key=2
 export const projects = [
   {
     title: "Budget Squad",
-    subtitle: "React, JavaScript, BootStrap, Jira",
+    subtitle: "React, JavaScript, BootStrap",
     description:
       "A group project to create a budgeting application. I'm currently creating a budget component to display the amount spent in each budget category with a progress bar.",
     image: "categoryRow.png",
     link: "https://github.com/coaching-team/budget-squad",
+    skill1: "React",
+    skill2: "JavaScript",
+    skill3: "BootStrap",
   },
   {
     title: "RuralNet",
-    subtitle: "Svelte, Tailwind",
+    subtitle: "Svelte, TailwindCSS, MongoDB",
     description:
-      "A web-based app that provides an unbiased source of mapped internet speeds to help bring broadband to rural areas. I created the initial site design and now serve as the project manager.",
+      "A web-based app that provides an unbiased source of mapped internet speeds to help bring broadband to rural areas. I created the initial site design and now serve as the lead developer and project manager.",
     image: "ruralNetScreen.png",
     link: "https://ruralnet.codeforuv.org/",
+    skill1: "Svelte",
+    skill2: "TailwindCSS",
+    skill3: "MongoDB",
   },
   {
     title: "FoodResources",
-    subtitle: "Tailwind CSS, HTML, UI/UX",
+    subtitle: "TailwindCSS, HTML, UI/UX",
     description:
     "A web-based app to help Upper Valley residents locate food resources. I'm working on creating the site design and UX. A Code for the Upper Valley, Code for America Brigade project.",
     image: "foodResourcesMobile.png",
     link: "https://food-resources.herokuapp.com",
+    skill1: "TailwindCSS",
+    skill2: "HTML",
+    skill3: "UI/UX design",
   },
   {
     title: "Northern Stage",
@@ -48,6 +57,9 @@ export const projects = [
       "Redesigned website for regional theater company.",
     image: "finaldesign2.jpg",
     link: "",
+    skill1: "React",
+    skill2: "JavaScript",
+    skill3: "BootStrap",
   },
 ];
 
