@@ -30,10 +30,6 @@ export default function Projects() {
                 <h1 className="title-font text-lg font-medium text-white mb-3">
                     {project.title}
                   </h1>
-                  <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
-                    {project.subtitle}
-                  </h2>
-                  
                   <p className="leading-relaxed">{project.description}</p>
                   <div class="px-6 pt-4 pb-2">
                     <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">{project.skill1}</span>

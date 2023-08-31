@@ -18,17 +18,6 @@ export const ruralnetPath = 'https://ipgeolocation.abstractapi.com/v1/?api_key=2
 
 export const projects = [
   {
-    title: "Budget Squad",
-    subtitle: "React, JavaScript, BootStrap",
-    description:
-      "A group project to create a budgeting application. I'm currently creating a budget component to display the amount spent in each budget category with a progress bar.",
-    image: "categoryRow.png",
-    link: "https://github.com/coaching-team/budget-squad",
-    skill1: "React",
-    skill2: "JavaScript",
-    skill3: "BootStrap",
-  },
-  {
     title: "RuralNet",
     subtitle: "Svelte, TailwindCSS, MongoDB",
     description:
@@ -39,6 +28,29 @@ export const projects = [
     skill2: "TailwindCSS",
     skill3: "MongoDB",
   },
+  {
+    title: "Text Selector",
+    subtitle: "JavaScript, CSS, HTML",
+    description:
+      "A web-based app that provides an unbiased source of mapped internet speeds to help bring broadband to rural areas. I created the initial site design and now serve as the lead developer and project manager.",
+    image: "Tumbler2.png",
+    link: "https://github.com/jmslynn/configuratorJS",
+    skill1: "JavaScript",
+    skill2: "CSS",
+    skill3: "HTML",
+  },
+  {
+    title: "Budget Squad",
+    subtitle: "React, JavaScript, BootStrap",
+    description:
+      "A group project to create a budgeting application. I created a budget component to display the amount spent in each budget category with a progress bar. The project has been put on hold.",
+    image: "categoryRow.png",
+    link: "https://github.com/coaching-team/budget-squad",
+    skill1: "React",
+    skill2: "JavaScript",
+    skill3: "BootStrap",
+  },
+ 
   {
     title: "FoodResources",
     subtitle: "TailwindCSS, HTML, UI/UX",
