@@ -13,7 +13,8 @@ module.exports = {
         'lightest-blue': '#4DA8DA',
         'dk-blue-shadow': '#203647',
         'lt-blue-shadow': '#eefbfb',
-        'dk-teal': '#015270'
+        'dk-teal': '#015270',
+        'button': '#52ab98'
       }
     },
    
