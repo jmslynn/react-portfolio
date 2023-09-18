@@ -29,10 +29,10 @@ export const projects = [
     skill3: "MongoDB",
   },
   {
-    title: "Text Selector",
+    title: "Options Selector",
     subtitle: "JavaScript, CSS, HTML",
     description:
-      "A web-based app that provides an unbiased source of mapped internet speeds to help bring broadband to rural areas. I created the initial site design and now serve as the lead developer and project manager.",
+      "A component for a print on demand shop to select color and printed text of a tumbler cup.",
     image: "Tumbler2.png",
     link: "https://github.com/jmslynn/configuratorJS",
     skill1: "JavaScript",
@@ -43,7 +43,7 @@ export const projects = [
     title: "Budget Squad",
     subtitle: "React, JavaScript, BootStrap",
     description:
-      "A group project to create a budgeting application. I created a budget component to display the amount spent in each budget category with a progress bar. The project has been put on hold.",
+      "A group project to create a budgeting application. I created this budget component to display the amount spent in each budget category with a progress bar. The project has been put on hold and is not online.",
     image: "categoryRow.png",
     link: "https://github.com/coaching-team/budget-squad",
     skill1: "React",
@@ -51,17 +51,17 @@ export const projects = [
     skill3: "BootStrap",
   },
  
-  {
-    title: "FoodResources",
-    subtitle: "TailwindCSS, HTML, UI/UX",
-    description:
-    "A web-based app to help Upper Valley residents locate food resources. I'm working on creating the site design and UX. A Code for the Upper Valley, Code for America Brigade project.",
-    image: "foodResourcesMobile.png",
-    link: "https://food-resources.herokuapp.com",
-    skill1: "TailwindCSS",
-    skill2: "HTML",
-    skill3: "UI/UX design",
-  },
+  // {
+  //   title: "FoodResources",
+  //   subtitle: "TailwindCSS, HTML, UI/UX",
+  //   description:
+  //   "A Code for Upper Valley brigade project to create a web-based app to help Upper Valley residents locate food resources.",
+  //   image: "foodResourcesMobile.png",
+  //   link: "https://food-resources.herokuapp.com",
+  //   skill1: "TailwindCSS",
+  //   skill2: "HTML",
+  //   skill3: "UI/UX design",
+  // },
   {
     title: "Northern Stage",
     subtitle: "Joomla!, HTML, CSS, PHP",
@@ -69,9 +69,9 @@ export const projects = [
       "Redesigned website for regional theater company.",
     image: "finaldesign2.jpg",
     link: "",
-    skill1: "React",
-    skill2: "JavaScript",
-    skill3: "BootStrap",
+    skill1: "Joomla!",
+    skill2: "PHP",
+    skill3: "CSS",
   },
 ];
 
