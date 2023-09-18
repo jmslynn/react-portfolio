@@ -26,7 +26,7 @@ export default function Projects() {
                   src={project.image}
                 />
               </div>
-              <div className="px-1 py-1 z-10 w-full border-4 border-gray-800 bg-gray-900">
+              <div className="px-1 py-1 z-10 w-full border-4 border-gray-800 bg-dk-teal">
                 <h1 className="title-font text-lg font-medium text-white mb-3">
                     {project.title}
                   </h1>
